@@ -3306,6 +3306,65 @@ section {
 #clients .owl-dot.active {
   background-color: #1bb1dc;
 }
+/*login*/
+.login-side-image {
+  background: rgb(246 246 246);
+  padding: 45px;
+}
+.log-n {
+  background: #fdfdfd;
+}
+.login-warper {
+  padding: 15px;
+  background-color: #fff;
+}
+.login-warper p {
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+.login-warper h3 {
+  font-weight: 600;
+  color: #ff9900;
+  margin-bottom: 15px;
+}
+
+.login-form-main {
+}
+.login-form-main p {
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+.login-form-main p a {
+  font-weight: 600;
+  color: #000;
+}
+.login-form-main p a:hover {
+  color: #ff9900;
+}
+.login-form-main label {
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+.login-form-main .form-group {
+  margin-bottom: 0.8rem;
+}
+
+.login-form-main .form-group .form-control {
+  font-size: 0.8rem;
+  height: 36px;
+  border-radius: 0;
+  -webkit-box-shadow: 0px 0px 15px 0px rgb(0 0 0 / 20%);
+  -moz-box-shadow: 0px 0px 15px 0px rgb(0 0 0 / 20%);
+  box-shadow: 0px 0px 15px 0px rgb(0 0 0 / 20%);
+  border: none;
+}
+.login-form-main .forgot-pass {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: underline;
+}
+.login-form-main .social-login .a {
+}
 
 /* Pricing Section
 --------------------------------*/
